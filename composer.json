@@ -1,0 +1,11 @@
+{
+    "name": "platz1de/easy-edit",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Platz1de\\EasyEdit\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
